@@ -1,0 +1,8 @@
+{
+  "key": "deez",
+  "key-n": 101,
+  "key-o": {
+    "inner key": "nuts value"
+  },
+  "key-l": ["69420string"]
+}
